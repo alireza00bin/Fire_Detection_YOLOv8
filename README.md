@@ -72,7 +72,8 @@ For train, validation, or inferences from the model, you can use the YOLO comman
 
 ## Conclusion
 ### Confusion Matrix
-
+![](https://github.com/alireza00bin/Fire_Detection_YOLOv8/blob/main/confusion_matrix.png)
 ### Results
-
+![](https://github.com/alireza00bin/Fire_Detection_YOLOv8/blob/main/results.png)
 ### Validation
+![](https://github.com/alireza00bin/Fire_Detection_YOLOv8/blob/main/validate.jpeg)
